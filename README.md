@@ -8,7 +8,7 @@
 Front-end do Projeto Astromatch do bootcamp da escola Labenu.\
 Uma aplicação similar ao Tinder, com personalidades divertidas do cinema e TV onde você pode dar like ou não pra ver se dá match! :D\
 Essa página utiliza uma API desenvolvida pela Labenu.\
-Site responsivo para mobile.\
+Site responsivo para mobile.
 
 Projeto desenvolvido com [Create React App](https://github.com/facebook/create-react-app).
 
@@ -75,7 +75,7 @@ Veja a sessão sobre [deployment](https://facebook.github.io/create-react-app/do
 Astromatch is a front-end project developed at Labenu School bootcamp.\
 An application similar to Tinder, with fun personalities of movies and TV shows, where you may or may not like a person and see if it's a match! :D\
 This page uses an API developed by Labenu.\
-Responsive layout available for mobile.\
+Responsive layout available for mobile.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
